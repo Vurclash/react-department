@@ -6,9 +6,9 @@ import App from './App';
 import 'semantic-ui-css/semantic.min.css'
 
 ReactDOM.render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>,
+<BrowserRouter>
+  <App />
+</BrowserRouter>,
   document.getElementById('root')
 );
 
